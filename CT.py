@@ -1,4 +1,7 @@
 
+#Author: Amila Pathirana
+#2019 May 1st
+
 import numpy as np
 from numpy import genfromtxt
 from numpy  import array
