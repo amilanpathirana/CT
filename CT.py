@@ -1,6 +1,7 @@
 
 #Author: Amila Pathirana
 #2019 May 1st
+#Simulation of the BH characteristics
 
 import numpy as np
 from numpy import genfromtxt
